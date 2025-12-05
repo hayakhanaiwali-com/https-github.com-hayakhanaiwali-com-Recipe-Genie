@@ -1,0 +1,5 @@
+{
+  "name": "Recipe Genie",
+  "description": "An AI-powered recipe creator that turns your available ingredients into delicious, step-by-step culinary masterpieces with nutritional insights.",
+  "requestFramePermissions": []
+}
